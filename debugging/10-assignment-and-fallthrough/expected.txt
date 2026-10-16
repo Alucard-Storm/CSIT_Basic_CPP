@@ -1,0 +1,2 @@
+Enter a number: Not ten
+remainder 1

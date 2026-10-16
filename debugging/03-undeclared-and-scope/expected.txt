@@ -1,0 +1,3 @@
+Count = 5
+Sum of squares = 55
+Last square = 25

@@ -1,0 +1,3 @@
+Enter two integers for GCD: GCD = 6
+LCM = 144
+Enter base and exponent: 2^10 = 1024

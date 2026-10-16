@@ -1,0 +1,4 @@
+Enter a word: Length: 5
+Reversed: leveL
+Vowels: 2
+Level is a palindrome

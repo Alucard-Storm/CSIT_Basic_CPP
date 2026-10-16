@@ -1,0 +1,3 @@
+How many marks? Enter 5 marks: Saved 5 marks to marks.txt
+Read back (sorted): 45 67 73 88 92
+Highest = 92, Lowest = 45, Average = 73

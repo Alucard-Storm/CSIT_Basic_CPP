@@ -1,0 +1,6 @@
+Number of students (max 20): Enter name, roll number and marks of student 1: Enter name, roll number and marks of student 2: Enter name, roll number and marks of student 3: Roll	Name	Marks
+101	Asha	78.5
+102	Ravi	91
+103	Meera	66
+Class average = 78.5
+Topper: Ravi (91)

@@ -1,0 +1,6 @@
+Enter matrix A (2x2): Enter matrix B (2x2): A + B:
+6	8	
+10	12	
+A x B:
+19	22	
+43	50	

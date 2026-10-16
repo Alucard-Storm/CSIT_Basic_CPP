@@ -1,0 +1,13 @@
+name: Build all programs
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile every example and experiment (warnings are errors)
+        run: make CXXFLAGS="-std=c++17 -Wall -Wextra -pedantic -Werror"
+      - name: Check debugging labs (fixed versions pass, buggy versions fail)
+        run: make check-debug

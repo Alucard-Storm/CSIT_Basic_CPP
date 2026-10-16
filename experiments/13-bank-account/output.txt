@@ -1,0 +1,4 @@
+Enter holder name and opening balance: Account holder: Asha, balance: 1000
+Amount to deposit: Account holder: Asha, balance: 1500
+Amount to withdraw: Withdrawal refused (insufficient funds or invalid amount).
+Account holder: Asha, balance: 1500

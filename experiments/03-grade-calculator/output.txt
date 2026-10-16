@@ -1,0 +1,2 @@
+Enter marks in three subjects (out of 100): Average = 83
+Grade: B
