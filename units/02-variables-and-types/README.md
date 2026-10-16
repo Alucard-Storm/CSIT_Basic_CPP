@@ -1,5 +1,7 @@
 # Unit 02: Variables, Data Types and Constants
 
+*Taught in session 2 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -26,7 +28,7 @@ A **variable** is a named place in memory with a type. Declare it before use: `i
 - **Constants**: `const double PI = 3.14159;` cannot be changed after initialisation.
 - **Integer division** truncates: `7 / 2` is `3`. Make one operand a `double` to get `3.5`.
 - **Casting**: `static_cast<double>(a) / b`.
-- Always initialise variables. An uninitialised local variable holds garbage.
+- Always initialise variables. An uninitialised local variable of a built-in type has an indeterminate value; reading it before assigning a value can cause undefined behaviour.
 - Overflow: an `int` holds roughly ±2.1 billion; go beyond it and results are wrong.
 
 ## Examples
@@ -49,6 +51,8 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/types.cpp
 ## Experiments for this unit
 
 - [Experiment 02: Temperature Conversion](../../experiments/02-temperature-conversion/README.md)
+- [Experiment 16: Simple Interest and Discount Calculator](../../experiments/16-simple-interest-and-discount/README.md)
+- [Experiment 32: Mini Project: Multiple-Choice Quiz](../../experiments/32-mini-project-quiz/README.md)
 
 ---
 [← Unit 01](../01-introduction/README.md) · [Course home](../../README.md) · [Unit 03 →](../03-operators-and-io/README.md)

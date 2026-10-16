@@ -1,0 +1,5 @@
+1) Which type stores whole numbers? (a) int (b) string (c) double
+Your answer: 2) Which loop checks its condition before each iteration? (a) do-while (b) while (c) none
+Your answer: 3) Which operator tests equality? (a) = (b) == (c) !=
+Your answer: Score: 3/3
+Excellent!

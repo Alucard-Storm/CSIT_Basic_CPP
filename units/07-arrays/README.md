@@ -1,5 +1,7 @@
 # Unit 07: Arrays
 
+*Taught in sessions 8–9 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -39,6 +41,10 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/arrays.cpp
 
 - [Experiment 08: Array Statistics and Bubble Sort](../../experiments/08-array-statistics/README.md)
 - [Experiment 09: Matrix Addition and Multiplication](../../experiments/09-matrix-operations/README.md)
+- [Experiment 23: Linear Search in an Array](../../experiments/23-linear-search/README.md)
+- [Experiment 24: Selection Sort](../../experiments/24-selection-sort/README.md)
+- [Experiment 25: Matrix Transpose and Diagonal Sums](../../experiments/25-matrix-transpose-diagonal/README.md)
+- [Experiment 32: Mini Project: Multiple-Choice Quiz](../../experiments/32-mini-project-quiz/README.md)
 
 ---
 [← Unit 06](../06-functions/README.md) · [Course home](../../README.md) · [Unit 08 →](../08-strings/README.md)

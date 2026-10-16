@@ -1,0 +1,5 @@
+Enter a line: Vowels: 2
+Consonants: 4
+Digits: 4
+Spaces: 2
+Words: 3

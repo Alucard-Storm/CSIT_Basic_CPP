@@ -1,5 +1,7 @@
 # Unit 04: Decision Making: if and switch
 
+*Taught in sessions 3–4 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -43,6 +45,9 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/if_else.cpp
 
 - [Experiment 03: Grade Calculator](../../experiments/03-grade-calculator/README.md)
 - [Experiment 04: Simple Calculator using switch](../../experiments/04-menu-calculator/README.md)
+- [Experiment 17: Eligibility and Leap-Year Checker](../../experiments/17-eligibility-and-leap-year/README.md)
+- [Experiment 20: Menu-Driven Unit Converter](../../experiments/20-menu-driven-converter/README.md)
+- [Experiment 32: Mini Project: Multiple-Choice Quiz](../../experiments/32-mini-project-quiz/README.md)
 
 ---
 [← Unit 03](../03-operators-and-io/README.md) · [Course home](../../README.md) · [Unit 05 →](../05-loops/README.md)

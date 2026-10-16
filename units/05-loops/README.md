@@ -1,5 +1,7 @@
 # Unit 05: Loops
 
+*Taught in sessions 5–6 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -42,6 +44,9 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/loops.cpp
 
 - [Experiment 05: Factorial and Prime Numbers](../../experiments/05-prime-and-factorial/README.md)
 - [Experiment 06: Fibonacci Series and Pyramid Pattern](../../experiments/06-fibonacci-and-patterns/README.md)
+- [Experiment 18: Number Properties](../../experiments/18-number-properties/README.md)
+- [Experiment 19: Multiplication Table and Digit Sum](../../experiments/19-multiplication-table-and-digit-sum/README.md)
+- [Experiment 32: Mini Project: Multiple-Choice Quiz](../../experiments/32-mini-project-quiz/README.md)
 
 ---
 [← Unit 04](../04-decisions/README.md) · [Course home](../../README.md) · [Unit 06 →](../06-functions/README.md)

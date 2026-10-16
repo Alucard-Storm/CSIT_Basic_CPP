@@ -1,5 +1,7 @@
 # Unit 11: Classes and Objects
 
+*Taught in session 13 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -38,6 +40,7 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/class_basic.cpp
 ## Experiments for this unit
 
 - [Experiment 13: Bank Account using a Class](../../experiments/13-bank-account/README.md)
+- [Experiment 29: Rectangle Class and Encapsulation](../../experiments/29-rectangle-class/README.md)
 
 ---
 [← Unit 10](../10-structs/README.md) · [Course home](../../README.md) · [Unit 12 →](../12-files-and-vectors/README.md)

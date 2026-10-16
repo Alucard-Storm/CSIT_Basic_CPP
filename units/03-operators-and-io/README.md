@@ -1,5 +1,7 @@
 # Unit 03: Operators and Input/Output
 
+*Taught in sessions 2–3 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -38,7 +40,8 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/operators.cpp
 
 ## Experiments for this unit
 
-No separate experiment; use the practice questions above and revisit the earlier experiments.
+- [Experiment 15: Operators and Expression Evaluation](../../experiments/15-operators-and-expressions/README.md)
+- [Experiment 16: Simple Interest and Discount Calculator](../../experiments/16-simple-interest-and-discount/README.md)
 
 ---
 [← Unit 02](../02-variables-and-types/README.md) · [Course home](../../README.md) · [Unit 04 →](../04-decisions/README.md)

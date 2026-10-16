@@ -1,0 +1,1 @@
+# This experiment reads sample.txt rather than standard input.

@@ -1,5 +1,7 @@
 # Unit 09: Pointers and References
 
+*Taught in sessions 7, 11 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -42,6 +44,7 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/pointers.cpp
 ## Experiments for this unit
 
 - [Experiment 11: Pointers and Swapping](../../experiments/11-pointers-and-swap/README.md)
+- [Experiment 27: References and Pass-by-Reference](../../experiments/27-reference-based-functions/README.md)
 
 ---
 [← Unit 08](../08-strings/README.md) · [Course home](../../README.md) · [Unit 10 →](../10-structs/README.md)

@@ -1,0 +1,3 @@
+C++ makes problem solving practical.
+Read files one line at a time.
+Count words carefully.

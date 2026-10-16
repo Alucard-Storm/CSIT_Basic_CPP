@@ -1,5 +1,7 @@
 # Unit 01: Introduction to Programming and C++
 
+*Taught in session 1 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:

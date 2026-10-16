@@ -1,0 +1,4 @@
+Enter square matrix size (1-10): Enter matrix values: Transpose:
+1 3
+2 4
+Main diagonal sum: 5

@@ -1,0 +1,2 @@
+Enter length and width: Area: 15.00
+Perimeter: 16.00

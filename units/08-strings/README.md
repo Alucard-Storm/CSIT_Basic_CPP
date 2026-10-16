@@ -1,5 +1,7 @@
 # Unit 08: Strings
 
+*Taught in session 10 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -36,6 +38,7 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/strings.cpp
 ## Experiments for this unit
 
 - [Experiment 10: String Operations and Palindrome](../../experiments/10-string-operations/README.md)
+- [Experiment 26: String Analyzer](../../experiments/26-string-analyzer/README.md)
 
 ---
 [← Unit 07](../07-arrays/README.md) · [Course home](../../README.md) · [Unit 09 →](../09-pointers-and-references/README.md)

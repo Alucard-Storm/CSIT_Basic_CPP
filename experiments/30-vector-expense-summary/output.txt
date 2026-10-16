@@ -1,0 +1,4 @@
+Enter number of expenses (1-100): Expense 1: Expense 2: Expense 3: Total: 400.00
+Average: 133.33
+Minimum: 49.50
+Maximum: 250.50

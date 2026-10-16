@@ -1,0 +1,1 @@
+Enter number of elements (1-100): Enter 5 integers: Enter target: Found at zero-based index: 2

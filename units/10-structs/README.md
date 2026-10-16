@@ -1,5 +1,7 @@
 # Unit 10: Structures
 
+*Taught in session 12 of the [session plan](../../SYLLABUS.md#suggested-session-plan).*
+
 ## Learning objectives
 
 By the end of this unit you can:
@@ -45,6 +47,7 @@ g++ -std=c++17 -Wall -Wextra -o prog examples/struct_basic.cpp
 ## Experiments for this unit
 
 - [Experiment 12: Student Records using Structures](../../experiments/12-student-records/README.md)
+- [Experiment 28: Multiple Student Records](../../experiments/28-student-records-array/README.md)
 
 ---
 [← Unit 09](../09-pointers-and-references/README.md) · [Course home](../../README.md) · [Unit 11 →](../11-classes/README.md)

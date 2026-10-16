@@ -1,0 +1,4 @@
+1. km to miles
+2. Celsius to Fahrenheit
+3. kg to pounds
+Choose and enter value: 25.00 C = 77.00 F
